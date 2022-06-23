@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "116.00",
+    "imgUrl": "/images/like_02.png"
+  },
+  {
+    "id":2,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "120.00",
+    "imgUrl": "/images/like_01.png"
+  },
+  {
+    "id":3,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "130.00",
+    "imgUrl": "/images/like_02.png"
+  },
+  {
+    "id":4,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "140.00",
+    "imgUrl": "/images/like_01.png"
+  },
+  {
+    "id":5,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "150.00",
+    "imgUrl": "/images/like_03.png"
+  },
+  {
+    "id":6,
+    "content":"阳光美包新款单肩包女包时尚子母包四件套女",
+    "price": "160.00",
+    "imgUrl": "/images/like_02.png"
+  }
+]

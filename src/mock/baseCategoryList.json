@@ -1,0 +1,581 @@
+[
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 111
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 222
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 11
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 111111
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 22222
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 22
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 1
+  },
+  
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2222",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书1111",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2111",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2222",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 2
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "adfasd",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "qwer",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "2314",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "adfasd",
+  "categoryId": 3
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "123",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "hkhj",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "adafds",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "adsf",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "ere",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "ioi",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "nbm",
+  "categoryId": 4
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "saf",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "daf",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "da",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "ad",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "213",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "adf",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "adf",
+  "categoryId": 5
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "adf",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "12312",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "4545",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "67",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "888",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像0000、电子书刊",
+  "categoryId": 6
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "234",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "1234",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "df",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "34",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "dfds",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "8",
+  "categoryId": 7
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "asdf",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "ere",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "iiou",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "adfds",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "df",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子adf书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "dfd",
+  "categoryId": 8
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "ad",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "ewrwe",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电adf子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 9
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 10
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 11
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 12
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 13
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 14
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 15
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 16
+  },
+  {
+  "categoryChild": [
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书刊",
+      "categoryId": 1
+    },
+    {
+      "categoryChild":[
+        {
+          "categoryName": "文学2",
+          "categoryId": 1
+        },
+        {
+        "categoryName": "电子书2",
+        "categoryId": 2
+        }
+      ],
+      "categoryName": "电子书2",
+      "categoryId": 2
+    }
+  ],
+  "categoryName": "图书、音像、电子书刊",
+  "categoryId": 17
+  }
+]
